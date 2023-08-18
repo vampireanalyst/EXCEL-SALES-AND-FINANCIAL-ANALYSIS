@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/PENCILABHI116/EXCEL-SALES-AND-FINANCIAL-ANALYSIS/blob/main/CUSTOMER%20PERFORMANCE%20REPORT.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
@@ -30,7 +30,7 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-Technical & Soft Skills:
+** Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
