@@ -1,10 +1,11 @@
 # EXCEL-SALES-AND-FINANCIAL-ANALYSIS
+**AtliQ Hardwares** is a hardware company which sells PC,mouse,and computers and other hardware items. AtliQ Hardwares is embarking on a data-driven journey by integrating sales and finance analytics.Recognizing the need for strategic insights, AtliQ aims to optimize sales strategies, identify growth opportunities, and enhance financial decision-making.to gain more profits.
 ## Sales Report :
 
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/PENCILABHI116/EXCEL-SALES-AND-FINANCIAL-ANALYSIS/blob/main/CUSTOMER%20PERFORMANCE%20REPORT.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/PENCILABHI116/EXCEL-SALES-AND-FINANCIAL-ANALYSIS./blob/main/CUSTOMER%20PERFORMANCE%20REPORT.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/PENCILABHI116/EXCEL-SALES-AND-FINANCIAL-ANALYSIS/blob/main/MARKET%20PERFORMANCE%20VS%20TARGET.pdf)_
 
